@@ -109,6 +109,7 @@ public class Checkersa extends JFrame implements ActionListener, WindowListener,
 
         [5 ] [11] [17] [23] [29] [35] [41]                           
          */
+        
         for(int x = 0; x < 8; x++)
         {
             for(int y = 0; y < 8; y++)
